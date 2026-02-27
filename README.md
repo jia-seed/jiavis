@@ -19,6 +19,8 @@ you speak → mic captures → whisper transcribes → phi-2 thinks → speaker 
 - microphone (tested with samson q2u)
 - speaker (tested with jbl clip 5, yeah just what i had laying around)
 - [lm studio](https://lmstudio.ai/)
+- in my case my intel asus nuc 14 rvk 
+![IMG_8292](https://github.com/user-attachments/assets/1b357f9b-7463-47ac-8a65-abb73ff8f21b)
 
 ## setup
 
@@ -28,6 +30,7 @@ pip install sounddevice numpy openai-whisper requests
 ```
 
 2. download a model in lm studio
+![IMG_8289](https://github.com/user-attachments/assets/9cba486c-d47c-4e89-a534-8546865545e2)
 
 - open lm studio
 - search for `TheBloke/phi-2-GGUF`
