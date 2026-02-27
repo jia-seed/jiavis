@@ -6,8 +6,9 @@
 ![ai](https://img.shields.io/badge/ai-100%25%20local-purple?style=flat-square)
 
 simple local voice assistant that runs entirely on your machine 24/7 with no cloud, api keys, or subscriptions
+(this was done a few weeks before clawdbot)
 
-(for me i ran phi-2 on lmstudio with a speaker microphone using whisper and python on an intel asus nuc 14 rvk)
+for me i ran phi-2 on lmstudio with a speaker microphone using whisper and python on an intel asus nuc 14 rvk
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c08ac125-4ecc-4a54-8e60-d1c405178de0" width="400" />
