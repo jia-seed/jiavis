@@ -5,7 +5,7 @@
 ![license](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 ![ai](https://img.shields.io/badge/ai-100%25%20local-purple?style=flat-square)
 
-a local voice assistant that runs entirely on your machine. no cloud, no api keys, no subscriptions. just talk to your computer.
+simple local voice assistant that runs entirely on your machine 24/7. no cloud api keys or subscriptions
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c08ac125-4ecc-4a54-8e60-d1c405178de0" width="400" />
