@@ -93,3 +93,5 @@ edit the system prompt in `jiavis.py` to change the personality:
 ## credits
 
 built with [whisper](https://github.com/openai/whisper) and [lm studio](https://lmstudio.ai/)
+
+hope u enjoyed and bye
