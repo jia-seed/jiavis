@@ -17,7 +17,7 @@ you speak → mic captures → whisper transcribes → phi-2 thinks → speaker 
 - windows 10/11
 - python 3.8+
 - microphone (tested with samson q2u)
-- speaker (tested with jbl clip 5)
+- speaker (tested with jbl clip 5, yeah just what i had laying around)
 - [lm studio](https://lmstudio.ai/)
 
 ## setup
