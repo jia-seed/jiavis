@@ -85,7 +85,7 @@ edit the system prompt in `jiavis.py` to change the personality:
 
 ## why local?
 
-- **privacy**: your voice never leaves your machine
+- **privacy**: ur voice never leave machine
 - **free**: no api costs or subscriptions
 - **fast**: no network latency
 - **offline**: works without internet
